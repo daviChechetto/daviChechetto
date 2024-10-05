@@ -4,44 +4,41 @@
 Este README serve como um exemplo de um perfil profissional. O objetivo é fornecer uma visão geral das habilidades, experiências e objetivos de carreira.
 
 ### Habilidades
-<li>Programação: Experiência com linguagens como Python, JavaScript e SQL.</li>
-<li>Desenvolvimento Web: Conhecimento em HTML, CSS, React e Node.js.</li>
-<li>Banco de Dados: Familiaridade com MySQL, PostgreSQL e MongoDB.</li>
-<li>Gerenciamento de Projetos: Utilização de metodologias ágeis como Scrum e Kanban.</li>
-<li>Análise de Dados: Proficiente em ferramentas de visualização de dados como Tableau e Power BI.</li>
+<li>Programação: Experiência com linguagens como Python, PHP e SQL.</li>
+<li>Desenvolvimento Web: Conhecimento em HTML, CSS, JavaScript.</li>
+<li>Banco de Dados: Familiaridade com MySQL.</li>
+<li>Gerenciamento de Projetos: Utilização de metodologias ágeis como Kanban.</li>
 
 ### Experiência
-Empresa XYZ
-<li>Desenvolvedor de Software</li>
+Prefeitura Municipal de Criciúma
+<li>Desenvolvedor de Sites Front-end</li>
 <li>Desenvolvimento e manutenção de aplicações web.</li>
 <li>Integração de APIs e serviços externos.</li>
-<li>Colaboração com equipes multidisciplinares para entregar soluções escaláveis.</li>
+<li>Colaboração com equipes diversos setores para entregar soluções funcionáis.</li>
   
-Empresa ABC
-Analista de Dados
-<li>Coleta, processamento e análise de grandes volumes de dados.</li>
-<li>Criação de dashboards interativos para suporte à decisão.</li>
-<li>Implementação de modelos de machine learning para previsão de tendências.</li>
   
 ### Educação
-<li>Bacharelado em Ciência da Computação - Universidade de Exemplo</li>
-<li>Especialização em Análise de Dados - Instituição de Exemplo</li>
+<li>Curso Técnico de Informática - Universidade SATC - Concluído</li>
+<li>Faculdade de Engenharia de Computação - Faculdade SATC - 2/9</li>
   
 ### Projetos
-Projeto X
-<li>Desenvolvimento de uma plataforma de e-commerce utilizando React e Node.js.</li>
-<li>Implementação de funcionalidades como carrinho de compras, sistema de pagamento e gerenciamento de usuários.</li>
-Projeto Y
-<li>Análise de dados de vendas para identificar padrões e tendências.</li>
-<li>Utilização de algoritmos de machine learning para prever demanda futura.</li>
+Projeto Real
+<small>O projeto</small>
+<li>Desenvolvimento de uma plataforma de gestão financeira pessoal utilizando React Native e Node.js.</li>
+<li>Funcionalidades como visão geral da sua conta e históricos de despesas e receitas.</li>
+
+<br><br>
+
+Projeto Totem - Extenção (em andamento)
+<li>Desenho do projeto usando AutoCad para produzir a estrutura</li>
+<li>Preparação da máquina que inclui instalar sistema Linux no iMac</li>
+<li>Produção de um sistema WEB para exibir conteúdos de interesse da instituição</li>
   
 ### Objetivos
-Buscando oportunidades para aplicar habilidades técnicas e analíticas em projetos desafiadores que contribuam para o crescimento e inovação da organização. Interesse em posições que promovam o desenvolvimento profissional contínuo e permitam a colaboração com equipes diversas e dinâmicas.
 
-<!--
-**daviChechetto/daviChechetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As metas que possuo inclinam para a busca por oportunidades para aplicar habilidades técnicas e analíticas em projetos desafiadores que contribuam para o crescimento e inovação. Interesse em posições que promovam o desenvolvimento profissional contínuo e permitam a colaboração com equipes diversas e dinâmicas.
 
-Here are some ideas to get you started:
+<!-- **daviChechetto/daviChechetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
