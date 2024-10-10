@@ -14,7 +14,7 @@ Prefeitura Municipal de Criciúma
 <li>Desenvolvedor de Sites Front-end</li>
 <li>Desenvolvimento e manutenção de aplicações web.</li>
 <li>Integração de APIs e serviços externos.</li>
-<li>Colaboração com equipes diversos setores para entregar soluções funcionáis.</li>
+<li>Colaboração com equipes diversos setores para entregar soluções funcionais.</li>
   
   
 ### Educação
